@@ -52,9 +52,6 @@ I am a data enthusiast with a strong foundation in data analysis, visualization,
 
 ## Contact Me
 - 📫 Email: [nitish.agarwal1993@gmail.com](mailto:nitish.agarwal1993@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/nitish-agarwal](https://linkedin.com/in/nitish-agarwal)  
+- 💼 LinkedIn: [linkedin.com/in/nitish-agarwal](www.linkedin.com/in/nitish-aggarwal-045a15a8)  
 
 ---
-
-## GitHub Stats
-![Nitish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
